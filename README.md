@@ -77,8 +77,8 @@ This is a Streamlit application developed to [describe the purpose of your appli
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone (https://github.com/charan028/HeartDisease_prediction.git)
+    cd HeartDisease_prediction
     ```
 
 2. **Create a virtual environment (optional but recommended):**
@@ -96,7 +96,7 @@ This is a Streamlit application developed to [describe the purpose of your appli
 
 1. **Navigate to the directory containing the `app1.py` file:**
     ```bash
-    cd /path/to/your/app
+    cd HeartDisease_prediction/
     ```
 
 2. **Run the Streamlit app:**
