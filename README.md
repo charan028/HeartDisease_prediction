@@ -121,7 +121,7 @@ The app requires the following Python packages to run:
 These can be installed via the `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
-
+ ```
 example output:
 ![Alt Text](https://github.com/charan028/HeartDisease_prediction/blob/main/gif_play.gif)
 
