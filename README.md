@@ -122,6 +122,9 @@ These can be installed via the `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
 
+example output:
+![Alt Text]
+
 ## References
 
 1. Heart Disease Pred - Logit Lasso DecisionTree (Kaggle)
