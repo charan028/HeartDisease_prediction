@@ -64,6 +64,64 @@ The results indicate that the models with optimized feature selection perform be
 - High computational cost due to the complex optimization process.
 - Handling imbalanced datasets remains a challenge.
 
+
+# Streamlit Application: App1
+
+## Description
+This is a Streamlit application developed to [describe the purpose of your application, what it does, and its main features]. 
+
+## Demo
+[If applicable, add a link to a live demo of your app or a screenshot showing the app in action.]
+
+## Installation
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/your-repo-name.git
+    cd your-repo-name
+    ```
+
+2. **Create a virtual environment (optional but recommended):**
+    ```bash
+    python -m venv env
+    source env/bin/activate   # On Windows use `env\Scripts\activate`
+    ```
+
+3. **Install the required dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Running the Application
+
+1. **Navigate to the directory containing the `app1.py` file:**
+    ```bash
+    cd /path/to/your/app
+    ```
+
+2. **Run the Streamlit app:**
+    ```bash
+    streamlit run app1.py
+    ```
+
+3. **Access the app in your browser:**
+    After running the above command, you can open your browser and go to `http://localhost:8501` to view the app.
+
+## Usage
+To use the application:
+1. [Provide instructions specific to your app, such as how to input data, navigate through the app, or interpret results.]
+
+## Dependencies
+The app requires the following Python packages to run:
+
+- Streamlit
+- Pandas
+- [Other dependencies, if any]
+
+These can be installed via the `requirements.txt` file:
+```bash
+pip install -r requirements.txt
+
 ## References
 
 1. Heart Disease Pred - Logit Lasso DecisionTree (Kaggle)
