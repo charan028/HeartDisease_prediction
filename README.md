@@ -123,7 +123,7 @@ These can be installed via the `requirements.txt` file:
 pip install -r requirements.txt
 
 example output:
-![Alt Text]
+![Alt Text](https://github.com/charan028/HeartDisease_prediction/blob/main/gif_play.gif)
 
 ## References
 
